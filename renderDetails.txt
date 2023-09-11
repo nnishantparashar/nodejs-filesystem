@@ -1,0 +1,14 @@
+Render Details:
+
+To create txt file use following endpoint :-
+
+     https://nodejs-filesystem-orgt.onrender.com/create
+
+To read txt file use following endpoint :- 
+
+     https://nodejs-filesystem-orgt.onrender.com/read
+
+
+GitHub Repo : https://github.com/nnishantparashar/nodejs-filesystem
+
+Last Coomit HashID: 79f45df1ce3cdb3f6782360e56de00744dd232d7
